@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <ctype.h> // Include ctype.h for isupper, islower, isdigit functions
+#include <string.h> // Include ctype.h for isupper, islower, isdigit functions
 
 /*
  * Program: Character Type Counter
